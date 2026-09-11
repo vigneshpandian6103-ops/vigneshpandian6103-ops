@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "AI Learning & Study Assistant featuring RAG course material Q&A, personalized study plans, interactive quiz generation, and memory-driven student progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
